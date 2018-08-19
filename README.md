@@ -1,4 +1,4 @@
 # hello-world
 First code container
 
-I'm looking for insights in programming and cool stuff from developers around the world.
+I'm looking for insights in programming and cool developers from all around the world.
